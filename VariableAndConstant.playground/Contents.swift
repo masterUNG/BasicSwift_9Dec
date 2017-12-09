@@ -1,0 +1,21 @@
+//: Playground - noun: a place where people can play
+
+//This is Add Library
+//นี่คือตัวอย่างการ เพิ่ม Library
+import UIKit
+
+//การประกาศตัวแปร แบบที่ สามารถแก้ไขค่าได้
+//นี่คือการประกาศตัวแปร แบบ String, Int, Double, Bool ทีีใช้ ค่าในการกำหนด DataType
+var nameString = "Master UNG"
+var numberInt = 123
+var numberDouble = 12.34
+var statusBol = true
+
+//Try Change Value
+nameString = "Doramon"
+numberInt = 321
+
+
+
+
+
