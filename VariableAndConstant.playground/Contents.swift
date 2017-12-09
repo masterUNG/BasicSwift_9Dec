@@ -29,6 +29,12 @@ var myManyNumber: Double = 32.123
 var myStatus: Bool = false
 
 
+//การแสดงบน Console
+print("Normal Sting")
+print("Name = \(nameString) Sername = \(surname)")
+print("Integer = \(numberInt)")
+
+
 
 
 
