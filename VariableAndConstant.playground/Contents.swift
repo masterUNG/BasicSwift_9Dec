@@ -16,10 +16,22 @@ var statusBol = true
 nameString = "Doramon"
 numberInt = 321
 
+
 //การประกาศตัวแปร ที่ไม่สามารถแก้ไขค่าได้ หรือ ค่าคงที่
 let conNameString = "Nopita"
 
 //conNameString = "Doramon" ไม่สามารถทำได้ เพราะเป็น let
+
+//การประกาศตัวแปรแบบกำหนด Data Type
+var surname: String = "Phrombutr"
+var myNumber: Int = 321
+var myManyNumber: Double = 32.123
+var myStatus: Bool = false
+
+
+
+
+
 
 
 
