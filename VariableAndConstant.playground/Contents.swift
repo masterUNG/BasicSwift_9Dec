@@ -1,5 +1,6 @@
 //: Playground - noun: a place where people can play
 
+
 //This is Add Library
 //นี่คือตัวอย่างการ เพิ่ม Library
 import UIKit
@@ -14,6 +15,12 @@ var statusBol = true
 //Try Change Value
 nameString = "Doramon"
 numberInt = 321
+
+//การประกาศตัวแปร ที่ไม่สามารถแก้ไขค่าได้ หรือ ค่าคงที่
+let conNameString = "Nopita"
+
+//conNameString = "Doramon" ไม่สามารถทำได้ เพราะเป็น let
+
 
 
 
