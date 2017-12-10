@@ -12,7 +12,8 @@ var numberInt = Int(numberString)
 //Solution for nil
 if let myNumberInt = numberInt {
     
-    var answerInt = myNumberInt + 10
+    let answerInt = myNumberInt + 10
+    print("answer ==> \(answerInt)")
     
 }   // if
 
